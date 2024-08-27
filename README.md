@@ -1,4 +1,4 @@
-# amazone_clone_by_rivaan
+# full_stack_amazone_clone_
 
 A new Flutter project.
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Project Issue
+
+This project is not completed yet , need some fixes to run on Android and also some features are not added .
+
